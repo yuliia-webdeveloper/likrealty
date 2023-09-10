@@ -179,7 +179,9 @@ body {
   max-height: 115px;
   width: 100%;
 }
-
+.header__logo a {
+  dislay: block;
+}
 .header__menu ul {
   display: -webkit-box;
   display: -ms-flexbox;
